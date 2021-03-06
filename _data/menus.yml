@@ -1,0 +1,15 @@
+- title: home
+  url: /
+  external: false
+
+- title: archive
+  url: /archive/
+  external: false
+
+- title: bio
+  url: /about/
+  external: false
+
+- title: github
+  url: https://github.com/draco-malfoy
+  external: true

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US"><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en-US" /><updated>2021-03-06T14:54:42+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Welcome</title><subtitle></subtitle><author><name>irshad</name><email>malfoys76@gmail.com</email></author><entry><title type="html">I failed my driving license test, twice!!</title><link href="http://localhost:4000/failed-driving-tests/" rel="alternate" type="text/html" title="I failed my driving license test, twice!!" /><published>2021-02-24T02:29:20+00:00</published><updated>2021-02-24T02:29:20+00:00</updated><id>http://localhost:4000/failed-driving-tests</id><content type="html" xml:base="http://localhost:4000/failed-driving-tests/">&lt;p&gt;Seems like I don’t ought to get a driving license, because I’ve being trying to get one since the past 1.5 years.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Seriously?&lt;/em&gt; You might wonder, &lt;em&gt;“1.5 years for a two wheeler license, …in India”&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Yes, that’s my case.&lt;/p&gt;
+
+&lt;p&gt;It is a very known fact that obtaining a driving license &lt;em&gt;easily&lt;/em&gt; in India just costs a few more dollars from your pocket, but you are ensured to &lt;em&gt;get one&lt;/em&gt; without any hassles. &lt;br /&gt; This is so known that there’s a full ~40 page publication by Harvard University titled &lt;a href=&quot;https://scholar.harvard.edu/files/remahanna/files/1_qje_driving_license.pdf&quot; target=&quot;_blank&quot;&gt;‘Obtaining a Driver’s license in India: An Experimental Approach to Studying Corruption’&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Despite this, I wasn’t able to get one.&lt;/p&gt;
+
+&lt;p&gt;Here’s a broad timeline from the day I first filled the form:&lt;/p&gt;
+
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td&gt;Aug-2019&lt;/td&gt;
+&lt;td&gt;Filled license form&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Nov-2019&lt;/td&gt;
+&lt;td&gt;Appeared for learner's license test (passed)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Apr-2020&lt;/td&gt;
+&lt;td&gt;Couldn't take the driving license test due to ongoing COVID, and the learner's license (6 months valid) expired&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Sep-2020&lt;/td&gt;
+&lt;td&gt;Again applied for learner's license&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Jan 2021&lt;/td&gt;
+&lt;td&gt;Gave my first driving license test (failed)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Feb 2021&lt;/td&gt;
+&lt;td&gt;Gave my re-test of driving license test (failed)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;p&gt;I have my next re-test date appointment on 5th of April, and if I don’t clear it this time I would have to go through the entire process of obtaining a driving license again, because the learner’s license expires after 6 months of issue date.&lt;/p&gt;
+
+&lt;p&gt;Wish me luck!&lt;/p&gt;</content><author><name>irshad</name><email>malfoys76@gmail.com</email></author><category term="random" /><summary type="html">Seems like I don’t ought to get a driving license, because I’ve being trying to get one since the past 1.5 years.</summary></entry><entry><title type="html">Finally created a blog!</title><link href="http://localhost:4000/a-blog-finally/" rel="alternate" type="text/html" title="Finally created a blog!" /><published>2021-01-05T02:29:20+00:00</published><updated>2021-01-05T02:29:20+00:00</updated><id>http://localhost:4000/a-blog-finally</id><content type="html" xml:base="http://localhost:4000/a-blog-finally/">&lt;p&gt;I like both reading and writing, and I consider myself an avid &lt;em&gt;blog-reader&lt;/em&gt; (is that even a thing?).&lt;/p&gt;
+
+&lt;p&gt;I’ve always wanted to blog but never got enough time to do so.&lt;/p&gt;
+
+&lt;p&gt;But today here I’am with this very first blog, in my writing journey. I expect myself to write atleast one blog a week.&lt;/p&gt;
+
+&lt;p&gt;I intend to write blogs related to my learning, tech, life-happenings etc.&lt;/p&gt;
+
+&lt;p&gt;&lt;small&gt;&lt;em&gt;Blog template &lt;a href=&quot;https://github.com/piharpi/jekyll-klise&quot;&gt;Klisé&lt;/a&gt;, built on &lt;a href=&quot;https://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt;&lt;/em&gt;&lt;/small&gt;&lt;/p&gt;</content><author><name>irshad</name><email>malfoys76@gmail.com</email></author><category term="random" /><summary type="html">I like both reading and writing, and I consider myself an avid blog-reader (is that even a thing?).</summary></entry></feed>
